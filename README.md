@@ -3,7 +3,7 @@
 This is a repository that contains all the templates necessary for creating projects under the architecture iOS + MVP
 
 The templates are as follows:
-* `Clean` folder (Files needed to use the clean swift architecture):
+* `Clean` folder (Files needed to use the Clean Swift Architecture):
   * `Clean Scene`: Create a complete scene with the 6 files required (ViewController, Interactor, Presenter, Worker, Router and Models)
   * `Clean Test`: Create the classes of tests and spies necessary to be able to do the unit tests of the scene
 
