@@ -11,9 +11,7 @@ The templates are as follows:
   * `MVP Scene`: Create a complete scene with the 3 files required (ViewController, Contract, Presenter)
   * `MVP Test`: Create the classes of tests and spies necessary to be able to do the unit tests of the scene
 
-* Base Application: Create an entire project under the MVP + Clean architecture. The project includes swiftlint, cocoadpods, 3 schemes (dev, QA, and Release).
-
-It also includes unit tests and can be runnable only in dev scheme.
+* `Base Application`: Create an entire project under the MVP + Clean architecture. The project includes swiftlint, cocoadpods, 3 schemes (dev, QA, and Release) and an example demo module for developers. It also includes unit tests and can be runnable only in dev scheme.
 
 ## Requirements
 
