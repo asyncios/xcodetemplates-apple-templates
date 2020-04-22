@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>App</key>
+	<dict>
+		<key>Stubs</key>
+		<dict>
+			<key>___PACKAGENAME___-dev</key>
+			<true/>
+			<key>___PACKAGENAME___-qa</key>
+			<false/>
+			<key>___PACKAGENAME___</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>Api</key>
+	<dict>
+		<key>Scheme</key>
+		<dict>
+			<key>___PACKAGENAME___-dev</key>
+			<string>https://</string>
+			<key>___PACKAGENAME___-qa</key>
+			<string>https://</string>
+			<key>___PACKAGENAME___</key>
+			<string>https://</string>
+		</dict>
+		<key>Host</key>
+		<dict>
+			<key>___PACKAGENAME___-dev</key>
+			<string>api-demo-dev</string>
+			<key>___PACKAGENAME___-qa</key>
+			<string>api-demo-qa</string>
+			<key>___PACKAGENAME___</key>
+			<string>api-demo</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
