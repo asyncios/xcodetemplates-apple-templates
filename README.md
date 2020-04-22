@@ -1,6 +1,6 @@
 # iOS - MVP + Clean Architecture
 
-This is a repository that contains all the templates necessary for creating projects under the architecture iOS + MVP
+This is a repository that contains all the templates necessary for creating projects under the architecture MVP + Clean Architecture
 
 The templates are as follows:
 * `Clean` folder (Files needed to use the Clean Swift Architecture):
